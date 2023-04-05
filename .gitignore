@@ -33,3 +33,4 @@
 
 # 配置
 .vscode/
+build/
